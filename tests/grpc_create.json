@@ -1,0 +1,42 @@
+{
+  "driver_options": {
+    "bool_options": [],
+    "string_options": [
+      {
+        "key": "api-client-id",
+        "value": "aaa"
+      },
+      {
+        "key": "api-secret",
+        "value": "bbb"
+      },
+      {
+        "key": "name",
+        "value": "c-3928wiis"
+      },
+      {
+        "key": "display-name",
+        "value": "ccc"
+      },
+      {
+        "key": "datacenter",
+        "value": "ddd"
+      },
+      {
+        "key": "sshkey-private",
+        "value": "eee"
+      },
+      {
+        "key": "sshkey-public",
+        "value": "fff"
+      },
+      {
+        "key": "private-network-name",
+        "value": "ggg"
+      }
+    ],
+    "int_options": [],
+    "string_slice_options": []
+  },
+  "cluster_info": {}
+}

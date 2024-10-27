@@ -1,0 +1,7 @@
+{
+  "metadata": {
+    "apiClientId": "aaa",
+    "apiSecret": "bbb",
+    "kconfig": "{\"cluster\": {\"name\": \"testk8s3\", \"datacenter\": \"IL\", \"ssh-key\": {\"private\": \"-----BEGIN RSA PRIVATE KEY-----\\n\\n-----END RSA PRIVATE KEY-----\\n\", \"public\": \"ssh-rsa ...\\n\"}, \"private-network\": {\"name\": \"lan-12345-testlan8\"}}, \"node-pools\": {\"worker1\": {\"nodes\": [1,2,3], \"node-config\": {\"cpu\": \"4B\", \"memory\": 2048}}, \"worker2\": {\"nodes\": [5, 6]}}}"
+  }
+}
